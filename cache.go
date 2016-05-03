@@ -4,7 +4,7 @@ import (
 	"container/list"
 	"reflect"
 
-	"github.com/yuin/gopher-lua"
+	"github.com/bitwalker/gopher-lua"
 )
 
 const (

@@ -3,7 +3,7 @@ package luar
 import (
 	"reflect"
 
-	"github.com/yuin/gopher-lua"
+	"github.com/bitwalker/gopher-lua"
 )
 
 // New creates and returns a new lua.LValue for the given value.

@@ -3,7 +3,7 @@ package luar
 import (
 	"reflect"
 
-	"github.com/yuin/gopher-lua"
+	"github.com/bitwalker/gopher-lua"
 )
 
 func checkSlice(L *lua.LState, idx int) (ref reflect.Value, mt *Metatable, isPtr bool) {

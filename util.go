@@ -6,7 +6,7 @@ import (
 	"unicode"
 	"unicode/utf8"
 
-	"github.com/yuin/gopher-lua"
+	"github.com/bitwalker/gopher-lua"
 )
 
 func tostring(L *lua.LState) int {

@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"strconv"
 
-	"github.com/layeh/gopher-luar"
-	"github.com/yuin/gopher-lua"
+	"github.com/bitwalker/gopher-luar"
+	"github.com/bitwalker/gopher-lua"
 )
 
 type Person struct {

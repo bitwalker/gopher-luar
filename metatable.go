@@ -3,7 +3,7 @@ package luar
 import (
 	"reflect"
 
-	"github.com/yuin/gopher-lua"
+	"github.com/bitwalker/gopher-lua"
 )
 
 // Metatable holds the Lua metatable for a Go type.
